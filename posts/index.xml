@@ -6,18 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2020 11:20:14 +0800</lastBuildDate>
     
 	<atom:link href="https://lxyandcyy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
+      <title>CSS 知识总结</title>
       <link>https://lxyandcyy.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 13 Feb 2020 11:20:14 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lxyandcyy.github.io/posts/my-first-post/</guid>
-      <description>hehahdhghadg </description>
+      <description>浏览器渲染原理 浏览器渲染步骤：
+ 处理 HTML 标记并构建 DOM 树 处理 CSS 标记并构建 CSSOM 树 将 DOM 与 CSSOM 合并成一个渲染树 布局 绘制 合成  渲染性能的优化可以查看 google 团队写的： https://developers.google.com/web/fundamentals/performance/rendering?hl=zh-cn
+CSS 动画的两种做法（transition 和 animation） 用 animation 做的红心例子：http://js.jirengu.com/bupufekihu/edit?html,css,output</description>
     </item>
     
   </channel>
